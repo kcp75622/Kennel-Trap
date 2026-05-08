@@ -1,7 +1,7 @@
 # Introduction
 Project Name: Kennel Bait \
 This repository includes the arduino code for our Kennel Bait \
-To access the project view the  \
+To access the project view the Servo_ECE528.ino and ESP32Camera.ino \
 To access the report view the Final Project Report pdf file \
 By: Jonathan Penaloza & Katherine Poz
 
@@ -17,10 +17,9 @@ The main goal of this project is to develop a kennel bait which will allow us to
 1 Camera Module
 
 # Pin Used:
-Servo Motor 1: \
-Servo Motor 2: \
+Laser & Servo Motor 1: Pin 9 on Arduino \
+Servo Motor 2: Pin 6 on Arduino \
 Camera: Pins VDD & GND on MSP432 LaunchPad \
-Laser: 
 
 # Block Diagram
 
