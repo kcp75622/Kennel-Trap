@@ -29,7 +29,7 @@ Camera: Pins VDD & GND on MSP432 LaunchPad
 # Project Demo
 These videos demonstrates the project of the kennel bait: \
 <img width="320" height="180" alt="mq2" src="https://github.com/user-attachments/assets/99b4bbaf-84a1-450f-9816-5332ab19097a" /> \
-https://youtube.com/shorts/R6GbHBZ4zEY?si=sVHrpu04Ad-8yZ2g \
+https://youtube.com/shorts/R6GbHBZ4zEY?si=sVHrpu04Ad-8yZ2g 
 
 Photos
 <img width="3000" height="4000" alt="20260507_191502" src="https://github.com/user-attachments/assets/f81fdf09-0312-4623-a65b-26918494bc11" />
