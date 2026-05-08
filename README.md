@@ -1,6 +1,6 @@
 # Project & Author 
 Project Name: Kennel Bait \
-Github: 
+Github: https://github.com/kcp75622/Kennel-Trap \
 By: Jonathan Penaloza & Katherine Poz
 
 # Project Overview
