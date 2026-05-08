@@ -1,5 +1,5 @@
-# Kennel-Bait
-
+# Project: Kennel-Bait
+-----------------------
 # Introduction
 
 # Pin Outs
