@@ -19,7 +19,7 @@ The main goal of this project is to develop a kennel bait which will allow us to
 # Pin Used:
 Laser & Servo Motor 1: Pin 9 on Arduino \
 Servo Motor 2: Pin 6 on Arduino \
-Camera: Pins VDD & GND on MSP432 LaunchPad \
+Camera: Pins VDD & GND on MSP432 LaunchPad
 
 # Block Diagram
 
