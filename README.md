@@ -12,7 +12,7 @@ The main goal of this project is to develop a kennel bait which will allow us to
 Servo Motor 1: \
 Servo Motor 2: \
 Camera: Pins VDD & GND on MSP432 LaunchPad \
-Laser: \
+Laser: 
 
 # Block Diagram
 
